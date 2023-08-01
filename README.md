@@ -3,7 +3,7 @@
 ### Sobre mim
 
 -  💻Estudante de Back-End
--  📚Acadêmico de CCO (5º Período)
+-  📚Acadêmico de CCO (6º Período)
 
 
 
