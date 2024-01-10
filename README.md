@@ -1,22 +1,20 @@
-### Olá, eu sou o Rodrigo Sutil!
+<h1>Olá! 👋</h1>
+<div>
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-4CAF50?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-sutil)](https://www.linkedin.com/in/rodrigo-sutil)&nbsp;&nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-4CAF50?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sutil_rodrigo@hotmail.com)](mailto:sutil_rodrigo@hotmail.com)
 
-### Sobre mim
-
--  💻Estudante de Back-End
--  📚Acadêmico de CCO (6º Período)
-
-
-
-<code><img height="50" alt="java" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
-
-
-| <a href="https://github.com/RodCarvalhoas/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RodCarvalhoas&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="RodCarvalhoas's github stats" /></a> | <a href="https://github.com/RodCarvalhoas/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodCarvalhoas&layout=compact&theme=gruvbox&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-  ##
- 
-<div> 
-  <a href = "mailto:sutil_rodrigo@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rodrigo-sutil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+
+
+<img align="right" alt="Code Boy image" src="./codeBoy.jpg" width="300px"/>
+
+## Meu nome é Rodrigo Sutil
+(JavaScript | HTML | CSS | TypeScript | ReactJs | NestJs | NodeJs | Java | Spring Boot) 🚀
+-  🧑🏻‍💻 Software Developer
+-  🎓 Acadêmico de Ciência da Computação
+
+[![Rod top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RodCarvalhoas&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
