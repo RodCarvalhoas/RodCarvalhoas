@@ -13,7 +13,7 @@
 <img align="right" alt="Code Boy image" src="./codeBoy.jpg" width="300px"/>
 
 ## Meu nome é Rodrigo Sutil
-(JavaScript | HTML | CSS | TypeScript | ReactJs | NestJs | NodeJs | Java | Spring Boot) 🚀
+(JavaScript | HTML | CSS | TypeScript | ReactJs | NestJs | Java | Spring Boot) 🚀
 -  🧑🏻‍💻 Software Developer
 -  🎓 Acadêmico de Ciência da Computação
 
