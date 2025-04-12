@@ -15,6 +15,6 @@
 ## Meu nome é Rodrigo Sutil
 (JavaScript | HTML | CSS | TypeScript | ReactJs | NestJs | Java | Spring Boot) 🚀
 -  🧑🏻‍💻 Software Developer
--  🎓 Acadêmico de Ciência da Computação
+-  🎓 Ciência da Computação
 
 [![Rod top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RodCarvalhoas&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
